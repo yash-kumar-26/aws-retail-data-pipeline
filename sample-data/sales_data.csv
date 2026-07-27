@@ -1,0 +1,566 @@
+order_id,branch,product,category,quantity,unit_price,order_date,customer_email
+1133,Cuttack,Keyboard,Accessories,4,780.66,2025-04-27,customer133@example.com
+1456,Sambalpur,Keyboard,Accessories,1,847.48,2025-06-02,customer456@example.com
+1010,Puri,Keyboard,Accessories,10,852.7,2025-04-03,customer10@example.com
+1217,Bhubaneswar,Router,Electronics,8,2192.33,2025-01-10,customer217@example.com
+1244,Cuttack,Smartwatch,Accessories,3,4378.38,2025-01-24,customer244@example.com
+1179,Bhubaneswar,External HDD,Accessories,4,3219.46,2025-06-10,customer179@example.com
+1189,Rourkela,Keyboard,Accessories,8,800.08,2025-04-23,customer189@example.com
+1265,Berhampur,Webcam,Accessories,4,2020.34,2025-06-14,customer265@example.com
+1072,Rourkela,Mobile Phone,Electronics,3,19580.15,2025-03-09,customer72@example.com
+1491,Rourkela,Printer,Electronics,9,6925.09,2025-03-25,customer491@example.com
+1460,Rourkela,Monitor,Electronics,2,8156.83,2025-02-18,customer460@example.com
+1393,Sambalpur,External HDD,Accessories,8,3448.28,2025-03-31,customer393@example.com
+1163,Bhubaneswar,External HDD,Accessories,5,3467.62,2025-03-06,customer163@example.com
+1253,Bhubaneswar,Router,Electronics,2,2176.12,2025-06-22,customer253@example.com
+1383,Bhubaneswar,Webcam,Accessories,4,1996.27,2025-01-12,customer383@example.com
+1526,,Printer,Electronics,1,6457.13,2025-06-22,customer48@example.com
+1499,Sambalpur,Mouse,Accessories,4,511.46,2025-02-04,customer499@example.com
+1119,Berhampur,Router,Electronics,8,1895.7,2025-01-20,customer119@example.com
+1185,Bhubaneswar,Printer,Electronics,4,5999.21,2025-06-15,customer185@example.com
+1069,Bhubaneswar,Mobile Phone,Electronics,6,19365.37,2025-03-14,customer69@example.com
+1331,Bhubaneswar,Laptop,Electronics,10,54447.07,2025-06-16,customer331@example.com
+1440,Cuttack,Monitor,Electronics,1,9150.02,2025-01-13,customer440@example.com
+1222,Cuttack,Mouse,Accessories,9,535.23,2025-04-08,customer222@example.com
+1142,Berhampur,Mobile Phone,Electronics,5,18283.27,2025-05-28,customer142@example.com
+1218,Sambalpur,Tablet,Electronics,6,16396.06,2025-01-26,customer218@example.com
+1193,Bhubaneswar,Headphones,Accessories,8,1491.15,2025-03-13,customer193@example.com
+1298,Puri,Mouse,Accessories,3,485.1,2025-02-06,customer298@example.com
+1214,Sambalpur,Mouse,Accessories,4,536.96,2025-05-27,customer214@example.com
+1113,Rourkela,Headphones,Accessories,9,1591.23,2025-04-29,customer113@example.com
+1471,Cuttack,Smartwatch,Accessories,7,4658.96,2025-04-12,customer471@example.com
+1065,Berhampur,Mouse,Accessories,7,473.87,2025-02-03,customer65@example.com
+1176,Puri,Smartwatch,Accessories,10,4586.51,2025-02-27,customer176@example.com
+1099,Cuttack,Router,Electronics,5,2139.21,2025-05-10,customer99@example.com
+1036,Bhubaneswar,External HDD,Accessories,2,3490.19,2025-05-17,customer36@example.com
+1458,Puri,External HDD,Accessories,8,3185.95,2025-02-13,customer458@example.com
+1402,Rourkela,Mouse,Accessories,4,514.96,2025-01-30,customer402@example.com
+1382,Berhampur,Router,Electronics,3,1872.91,2025-01-17,customer382@example.com
+1187,Sambalpur,Keyboard,Accessories,10,815.21,2025-03-15,customer187@example.com
+1068,Cuttack,Tablet,Electronics,5,14139.46,2025-02-03,customer68@example.com
+1254,Puri,Webcam,Accessories,9,1991.01,2025-03-25,customer254@example.com
+1360,Sambalpur,Headphones,Accessories,9,1431.84,2025-02-07,customer360@example.com
+1273,Sambalpur,Printer,Electronics,2,6533.91,2025-05-02,customer273@example.com
+1019,Bhubaneswar,Monitor,Electronics,10,9743.65,2025-03-22,customer19@example.com
+1170,Rourkela,External HDD,Accessories,8,3810.86,2025-01-27,customer170@example.com
+1398,Cuttack,Laptop,Electronics,4,50888.53,2025-06-15,customer398@example.com
+1231,Sambalpur,Webcam,Accessories,3,2381.64,2025-03-01,customer231@example.com
+1292,Bhubaneswar,Mouse,Accessories,9,460.36,2025-02-24,customer292@example.com
+1365,Berhampur,Headphones,Accessories,5,1391.28,2025-05-01,customer365@example.com
+1434,Bhubaneswar,Webcam,Accessories,8,2033.91,2025-03-05,customer434@example.com
+1452,Berhampur,Smartwatch,Accessories,7,4336.68,2025-06-07,customer452@example.com
+1516,Puri,Mouse,Accessories,9,461.86,2025-04-11,customer516@example.com
+1121,Berhampur,Mobile Phone,Electronics,4,16698.15,2025-04-09,customer121@example.com
+1472,Cuttack,Headphones,Accessories,5,1437.14,2025-01-21,customer472@example.com
+1105,Bhubaneswar,Mouse,Accessories,8,496.5,2025-06-22,customer105@example.com
+1109,Rourkela,Laptop,Electronics,8,50008.35,2025-06-06,customer109@example.com
+1164,Berhampur,Mobile Phone,Electronics,6,18796.62,2025-01-31,customer164@example.com
+1033,Sambalpur,Tablet,Electronics,10,16255.48,2025-03-24,customer33@example.com
+1371,Puri,Mobile Phone,Electronics,8,19212.08,2025-06-02,customer371@example.com
+1079,Bhubaneswar,Tablet,Electronics,2,13529.01,2025-06-26,customer79@example.com
+1134,Sambalpur,Mouse,Accessories,7,526.12,2025-03-13,customer134@example.com
+1366,Puri,Headphones,Accessories,8,1577.65,2025-04-25,customer366@example.com
+1007,Cuttack,Mobile Phone,Electronics,2,16533.89,2025-04-02,customer7@example.com
+1150,Sambalpur,Keyboard,Accessories,9,818.55,2025-05-04,customer150@example.com
+1225,Berhampur,Mobile Phone,Electronics,2,17762.3,2025-06-12,customer225@example.com
+1404,Sambalpur,Mobile Phone,Electronics,5,17142.4,2025-06-30,customer404@example.com
+1348,Puri,Keyboard,Accessories,2,855.11,2025-05-10,customer348@example.com
+1032,Puri,Smartwatch,Accessories,6,4229.02,2025-02-11,customer32@example.com
+1238,Rourkela,Laptop,Electronics,7,60257.39,2025-03-12,customer238@example.com
+1519,Cuttack,Printer,Electronics,4,6920.37,2025-04-28,customer519@example.com
+1190,Puri,Smartwatch,Accessories,7,4085.87,2025-03-24,customer190@example.com
+1520,Rourkela,Webcam,Accessories,6,,2025-03-15,customer328@example.com
+1148,Sambalpur,Webcam,Accessories,6,2026.44,2025-06-12,customer148@example.com
+1000,Bhubaneswar,Router,Electronics,5,1844.53,2025-03-04,customer0@example.com
+1518,Puri,Keyboard,Accessories,9,794.08,2025-04-19,customer518@example.com
+1173,Berhampur,Mobile Phone,Electronics,2,17642.55,2025-05-28,customer173@example.com
+1537,Berhampur,Webcam,Accessories,5,,2025-01-09,customer261@example.com
+1437,Puri,External HDD,Accessories,3,3368.9,2025-05-08,customer437@example.com
+1447,Cuttack,Mobile Phone,Electronics,2,16663.19,2025-04-11,customer447@example.com
+1449,Rourkela,Smartwatch,Accessories,9,4508.21,2025-01-11,customer449@example.com
+1055,Cuttack,Laptop,Electronics,1,51311.01,2025-04-10,customer55@example.com
+1524,Puri,Smartwatch,Accessories,10,,2025-01-11,customer62@example.com
+1373,Cuttack,Headphones,Accessories,1,1437.38,2025-06-07,customer373@example.com
+1219,Berhampur,Mobile Phone,Electronics,8,18093.42,2025-01-04,customer219@example.com
+1450,Puri,Laptop,Electronics,6,51007.4,2025-05-02,customer450@example.com
+1392,Puri,Mouse,Accessories,5,516.09,2025-04-25,customer392@example.com
+1059,Bhubaneswar,Laptop,Electronics,9,55925.95,2025-05-16,customer59@example.com
+1306,Berhampur,Mouse,Accessories,5,492.99,2025-06-23,customer306@example.com
+1237,Cuttack,Smartwatch,Accessories,5,4373.06,2025-06-29,customer237@example.com
+1453,Puri,Keyboard,Accessories,9,815.0,2025-05-11,customer453@example.com
+1020,Cuttack,Router,Electronics,8,1999.69,2025-02-06,customer20@example.com
+1468,Berhampur,Monitor,Electronics,5,9794.67,2025-03-15,customer468@example.com
+1022,Cuttack,External HDD,Accessories,10,3559.21,2025-04-13,customer22@example.com
+1211,Berhampur,Keyboard,Accessories,10,836.17,2025-05-29,customer211@example.com
+1031,Puri,Tablet,Electronics,5,16237.88,2025-06-13,customer31@example.com
+1485,Cuttack,Keyboard,Accessories,2,810.87,2025-03-27,customer485@example.com
+1228,Puri,Printer,Electronics,9,6039.24,2025-04-16,customer228@example.com
+1446,Puri,Tablet,Electronics,10,14339.16,2025-06-24,customer446@example.com
+1355,Sambalpur,Monitor,Electronics,10,8762.11,2025-04-23,customer355@example.com
+1224,Berhampur,Smartwatch,Accessories,5,4111.58,2025-02-28,customer224@example.com
+1487,Bhubaneswar,Headphones,Accessories,8,1605.32,2025-03-11,customer487@example.com
+1143,Puri,Printer,Electronics,4,6365.65,2025-01-20,customer143@example.com
+1014,Berhampur,Mouse,Accessories,5,470.95,2025-06-29,customer14@example.com
+1155,Cuttack,Webcam,Accessories,5,2073.33,2025-03-29,customer155@example.com
+1103,Cuttack,Keyboard,Accessories,1,784.97,2025-03-19,customer103@example.com
+1005,Berhampur,Smartwatch,Accessories,1,4300.37,2025-02-10,customer5@example.com
+1135,Berhampur,Keyboard,Accessories,8,853.59,2025-01-05,customer135@example.com
+1363,Bhubaneswar,Monitor,Electronics,2,8795.1,2025-04-06,customer363@example.com
+1351,Berhampur,Headphones,Accessories,10,1599.4,2025-02-12,customer351@example.com
+1057,Rourkela,Webcam,Accessories,5,2048.11,2025-02-25,customer57@example.com
+1089,Cuttack,Monitor,Electronics,4,8501.26,2025-04-13,customer89@example.com
+1364,Cuttack,Laptop,Electronics,2,53005.53,2025-06-16,customer364@example.com
+1291,Cuttack,External HDD,Accessories,5,3186.01,2025-06-03,customer291@example.com
+1012,Sambalpur,Keyboard,Accessories,4,877.64,2025-01-26,customer12@example.com
+1060,Rourkela,Laptop,Electronics,2,60068.57,2025-02-17,customer60@example.com
+1349,Cuttack,External HDD,Accessories,1,3768.58,2025-06-19,customer349@example.com
+1178,Puri,Printer,Electronics,10,6246.99,2025-01-16,customer178@example.com
+1145,Puri,Keyboard,Accessories,10,856.05,2025-01-31,customer145@example.com
+1504,Bhubaneswar,Mobile Phone,Electronics,9,16422.33,2025-05-10,customer504@example.com
+1361,Cuttack,Mobile Phone,Electronics,4,19607.09,2025-04-26,customer361@example.com
+1058,Rourkela,Smartwatch,Accessories,1,4712.16,2025-03-22,customer58@example.com
+1482,Sambalpur,Monitor,Electronics,1,9063.27,2025-02-14,customer482@example.com
+1175,Sambalpur,Mobile Phone,Electronics,2,19778.11,2025-05-23,customer175@example.com
+1297,Cuttack,Keyboard,Accessories,5,724.63,2025-06-29,customer297@example.com
+1183,Berhampur,Keyboard,Accessories,8,833.11,2025-01-19,customer183@example.com
+1202,Berhampur,Keyboard,Accessories,5,807.88,2025-04-23,customer202@example.com
+1522,Rourkela,,Electronics,5,17797.24,2025-01-08,customer226@example.com
+1165,Bhubaneswar,Tablet,Electronics,3,16352.63,2025-02-19,customer165@example.com
+1204,Sambalpur,Headphones,Accessories,1,1443.23,2025-05-22,customer204@example.com
+1239,Berhampur,Smartwatch,Accessories,1,4828.56,2025-06-05,customer239@example.com
+1463,Bhubaneswar,External HDD,Accessories,3,3193.6,2025-05-13,customer463@example.com
+1075,Cuttack,Router,Electronics,9,2141.17,2025-05-06,customer75@example.com
+1026,Cuttack,Printer,Electronics,8,6346.11,2025-05-16,customer26@example.com
+1377,Sambalpur,Printer,Electronics,1,6985.33,2025-06-12,customer377@example.com
+1396,Bhubaneswar,Router,Electronics,9,1962.48,2025-06-23,customer396@example.com
+1088,Cuttack,Monitor,Electronics,8,9569.86,2025-03-31,customer88@example.com
+1339,Cuttack,External HDD,Accessories,10,3746.1,2025-02-08,customer339@example.com
+1432,Bhubaneswar,Mouse,Accessories,6,523.42,2025-04-13,customer432@example.com
+1413,Cuttack,Headphones,Accessories,2,1533.58,2025-01-17,customer413@example.com
+1403,Puri,External HDD,Accessories,9,3280.23,2025-04-10,customer403@example.com
+1296,Berhampur,Router,Electronics,10,2022.7,2025-06-18,customer296@example.com
+1171,Cuttack,Smartwatch,Accessories,8,4305.91,2025-04-23,customer171@example.com
+1159,Rourkela,Router,Electronics,8,2084.74,2025-01-05,customer159@example.com
+1132,Rourkela,Printer,Electronics,8,6026.41,2025-02-16,customer132@example.com
+1130,Sambalpur,Headphones,Accessories,9,1644.22,2025-01-07,customer130@example.com
+1056,Berhampur,Webcam,Accessories,9,2105.51,2025-06-19,customer56@example.com
+1066,Rourkela,Router,Electronics,6,1920.0,2025-01-19,customer66@example.com
+1025,Rourkela,Headphones,Accessories,7,1587.62,2025-06-02,customer25@example.com
+1508,Rourkela,Headphones,Accessories,8,1503.97,2025-05-25,customer508@example.com
+1486,Sambalpur,Webcam,Accessories,9,2415.2,2025-05-15,customer486@example.com
+1232,Rourkela,Router,Electronics,5,1901.59,2025-06-20,customer232@example.com
+1411,Rourkela,Monitor,Electronics,4,9525.72,2025-05-07,customer411@example.com
+1333,Puri,Webcam,Accessories,6,2025.54,2025-01-22,customer333@example.com
+1326,Puri,Mobile Phone,Electronics,5,17888.12,2025-03-12,customer326@example.com
+1011,Bhubaneswar,Monitor,Electronics,1,9368.23,2025-06-19,customer11@example.com
+1449,Rourkela,Smartwatch,Accessories,9,4508.21,2025-01-11,customer449@example.com
+1090,Berhampur,Keyboard,Accessories,5,858.3,2025-03-31,customer90@example.com
+1063,Puri,Mobile Phone,Electronics,10,17709.21,2025-05-25,customer63@example.com
+1259,Puri,External HDD,Accessories,9,3637.54,2025-04-18,customer259@example.com
+1380,Cuttack,Mouse,Accessories,6,463.34,2025-05-20,customer380@example.com
+1517,Rourkela,Headphones,Accessories,4,1568.36,2025-01-01,customer517@example.com
+1426,Bhubaneswar,Router,Electronics,5,2108.41,2025-06-16,customer426@example.com
+1092,Puri,Mobile Phone,Electronics,5,19357.34,2025-02-15,customer92@example.com
+1009,Puri,Mobile Phone,Electronics,7,19703.22,2025-01-21,customer9@example.com
+1395,Berhampur,Keyboard,Accessories,1,822.32,2025-01-20,customer395@example.com
+1107,Rourkela,Keyboard,Accessories,10,802.47,2025-03-27,customer107@example.com
+1502,Puri,Monitor,Electronics,10,9471.35,2025-01-21,customer502@example.com
+1419,Cuttack,Laptop,Electronics,9,58645.3,2025-02-09,customer419@example.com
+1102,Puri,Router,Electronics,3,2099.25,2025-06-07,customer102@example.com
+1280,Puri,Smartwatch,Accessories,6,4543.52,2025-04-08,customer280@example.com
+1294,Bhubaneswar,Mouse,Accessories,5,461.49,2025-05-27,customer294@example.com
+1260,Rourkela,External HDD,Accessories,7,3658.62,2025-06-17,customer260@example.com
+1114,Bhubaneswar,Tablet,Electronics,2,14247.59,2025-04-27,customer114@example.com
+1018,Rourkela,Laptop,Electronics,7,58355.5,2025-03-10,customer18@example.com
+1206,Puri,Router,Electronics,8,2132.86,2025-03-16,customer206@example.com
+1497,Puri,Webcam,Accessories,7,2114.99,2025-06-25,customer497@example.com
+1459,Berhampur,Router,Electronics,7,2088.47,2025-02-07,customer459@example.com
+1168,Bhubaneswar,Mouse,Accessories,1,467.94,2025-05-17,customer168@example.com
+1064,Berhampur,Mouse,Accessories,4,543.47,2025-06-21,customer64@example.com
+1061,Rourkela,Smartwatch,Accessories,4,4111.16,2025-04-14,customer61@example.com
+1515,Berhampur,Printer,Electronics,9,6338.34,2025-02-04,customer515@example.com
+1212,Sambalpur,Webcam,Accessories,8,2360.71,2025-05-18,customer212@example.com
+1035,Rourkela,Laptop,Electronics,10,52149.59,2025-01-21,customer35@example.com
+1127,Sambalpur,External HDD,Accessories,10,3532.29,2025-02-26,customer127@example.com
+1505,Puri,Smartwatch,Accessories,3,4532.99,2025-03-25,customer505@example.com
+1104,Berhampur,Monitor,Electronics,10,8873.8,2025-06-05,customer104@example.com
+1478,Puri,Webcam,Accessories,3,2024.24,2025-01-02,customer478@example.com
+1528,Bhubaneswar,,Electronics,5,2108.41,2025-06-16,customer426@example.com
+1240,Puri,Webcam,Accessories,5,2346.45,2025-02-28,customer240@example.com
+1234,Berhampur,Webcam,Accessories,10,2395.9,2025-03-18,customer234@example.com
+1053,Bhubaneswar,Router,Electronics,1,2199.71,2025-01-24,customer53@example.com
+1286,Sambalpur,Keyboard,Accessories,3,779.89,2025-06-25,customer286@example.com
+1527,,Mobile Phone,Electronics,2,18817.49,2025-04-21,customer390@example.com
+1186,Bhubaneswar,Keyboard,Accessories,2,852.26,2025-01-16,customer186@example.com
+1457,Bhubaneswar,Keyboard,Accessories,10,874.73,2025-05-28,customer457@example.com
+1439,Bhubaneswar,Mobile Phone,Electronics,9,19602.84,2025-04-28,customer439@example.com
+1338,Cuttack,Mobile Phone,Electronics,7,18208.67,2025-03-14,customer338@example.com
+1305,Rourkela,Webcam,Accessories,4,2162.24,2025-05-12,customer305@example.com
+1385,Bhubaneswar,Tablet,Electronics,1,14920.2,2025-06-15,customer385@example.com
+1422,Puri,Tablet,Electronics,5,14323.35,2025-06-07,customer422@example.com
+1323,Puri,Router,Electronics,8,1830.14,2025-04-29,customer323@example.com
+1144,Berhampur,External HDD,Accessories,4,3731.4,2025-01-27,customer144@example.com
+1029,Sambalpur,Mouse,Accessories,7,461.16,2025-02-10,customer29@example.com
+1093,Cuttack,Keyboard,Accessories,10,726.12,2025-04-22,customer93@example.com
+1103,Cuttack,Keyboard,Accessories,1,784.97,2025-03-19,customer103@example.com
+1201,Bhubaneswar,Smartwatch,Accessories,8,4730.8,2025-01-14,customer201@example.com
+1441,Puri,Webcam,Accessories,8,2242.91,2025-03-15,customer441@example.com
+1096,Puri,Laptop,Electronics,1,57296.64,2025-05-14,customer96@example.com
+1408,Puri,Router,Electronics,2,1938.97,2025-05-21,customer408@example.com
+1062,Puri,Smartwatch,Accessories,10,4271.59,2025-01-11,customer62@example.com
+1515,Berhampur,Printer,Electronics,9,6338.34,2025-02-04,customer515@example.com
+1147,Sambalpur,Mobile Phone,Electronics,6,18021.46,2025-01-04,customer147@example.com
+1125,Cuttack,Smartwatch,Accessories,1,4392.34,2025-04-01,customer125@example.com
+1308,Bhubaneswar,Printer,Electronics,1,7129.78,2025-01-02,customer308@example.com
+1263,Berhampur,Mobile Phone,Electronics,6,19731.34,2025-05-20,customer263@example.com
+1188,Sambalpur,Mobile Phone,Electronics,5,17887.31,2025-06-29,customer188@example.com
+1275,Puri,Monitor,Electronics,1,9801.75,2025-06-18,customer275@example.com
+1081,Cuttack,Headphones,Accessories,1,1478.94,2025-03-20,customer81@example.com
+1493,Sambalpur,Mouse,Accessories,1,543.58,2025-03-08,customer493@example.com
+1287,Sambalpur,Mobile Phone,Electronics,2,16528.41,2025-01-24,customer287@example.com
+1080,Puri,Tablet,Electronics,6,13608.08,2025-05-30,customer80@example.com
+1122,Sambalpur,Headphones,Accessories,2,1561.93,2025-04-17,customer122@example.com
+1051,Rourkela,Printer,Electronics,8,6088.53,2025-03-05,customer51@example.com
+1344,Berhampur,External HDD,Accessories,9,3848.01,2025-01-24,customer344@example.com
+1421,Berhampur,Keyboard,Accessories,5,855.35,2025-02-20,customer421@example.com
+1082,Bhubaneswar,Laptop,Electronics,4,59388.17,2025-06-24,customer82@example.com
+1425,Rourkela,Smartwatch,Accessories,1,4087.07,2025-01-21,customer425@example.com
+1246,Puri,Tablet,Electronics,6,16129.38,2025-05-16,customer246@example.com
+1481,Puri,Router,Electronics,2,1823.67,2025-06-16,customer481@example.com
+1293,Puri,Router,Electronics,2,1992.88,2025-03-31,customer293@example.com
+1236,Sambalpur,Printer,Electronics,2,6959.34,2025-03-02,customer236@example.com
+1444,Cuttack,Printer,Electronics,9,5916.5,2025-02-19,customer444@example.com
+1353,Berhampur,Monitor,Electronics,10,9845.26,2025-03-14,customer353@example.com
+1110,Berhampur,Webcam,Accessories,10,2162.35,2025-02-19,customer110@example.com
+1241,Cuttack,Mouse,Accessories,4,471.9,2025-06-08,customer241@example.com
+1112,Bhubaneswar,Router,Electronics,2,2075.05,2025-04-19,customer112@example.com
+1084,Bhubaneswar,External HDD,Accessories,4,3258.19,2025-02-11,customer84@example.com
+1295,Berhampur,Printer,Electronics,10,6948.7,2025-06-07,customer295@example.com
+1205,Rourkela,Mobile Phone,Electronics,2,17008.92,2025-04-29,customer205@example.com
+1097,Sambalpur,Router,Electronics,4,2087.77,2025-04-04,customer97@example.com
+1158,Sambalpur,Printer,Electronics,4,6485.15,2025-06-26,customer158@example.com
+1261,Berhampur,Webcam,Accessories,5,2250.89,2025-01-09,customer261@example.com
+1264,Rourkela,Mouse,Accessories,5,456.06,2025-02-18,customer264@example.com
+1101,Sambalpur,Tablet,Electronics,7,13881.86,2025-06-20,customer101@example.com
+1242,Rourkela,Router,Electronics,3,2102.23,2025-06-10,customer242@example.com
+1001,Puri,Headphones,Accessories,9,1570.94,2025-01-23,customer1@example.com
+1462,Berhampur,Monitor,Electronics,10,8838.68,2025-05-01,customer462@example.com
+1464,Sambalpur,Tablet,Electronics,8,14475.15,2025-05-15,customer464@example.com
+1343,Berhampur,Router,Electronics,3,2116.66,2025-06-21,customer343@example.com
+1016,Berhampur,Monitor,Electronics,7,8394.12,2025-03-11,customer16@example.com
+1473,Bhubaneswar,Webcam,Accessories,8,2268.63,2025-02-24,customer473@example.com
+1303,Berhampur,Laptop,Electronics,10,51211.38,2025-01-13,customer303@example.com
+1152,Sambalpur,Monitor,Electronics,2,9595.32,2025-03-13,customer152@example.com
+1387,Sambalpur,Keyboard,Accessories,6,739.92,2025-04-22,customer387@example.com
+1160,Berhampur,Keyboard,Accessories,4,755.46,2025-03-20,customer160@example.com
+1435,Sambalpur,Mobile Phone,Electronics,7,16382.18,2025-06-07,customer435@example.com
+1318,Bhubaneswar,Mobile Phone,Electronics,5,17624.76,2025-03-28,customer318@example.com
+1128,Sambalpur,Monitor,Electronics,8,8591.28,2025-01-08,customer128@example.com
+1301,Berhampur,Webcam,Accessories,6,2129.99,2025-03-21,customer301@example.com
+1358,Rourkela,Laptop,Electronics,6,56552.97,2025-05-22,customer358@example.com
+1451,Cuttack,Webcam,Accessories,9,2045.53,2025-02-05,customer451@example.com
+1476,Berhampur,Laptop,Electronics,9,56868.17,2025-02-27,customer476@example.com
+1215,Cuttack,Monitor,Electronics,7,9640.82,2025-01-12,customer215@example.com
+1141,Cuttack,Smartwatch,Accessories,2,4917.36,2025-02-11,customer141@example.com
+1534,Bhubaneswar,,Electronics,9,55925.95,2025-05-16,customer59@example.com
+1085,Berhampur,Printer,Electronics,6,5882.22,2025-04-16,customer85@example.com
+1032,Puri,Smartwatch,Accessories,6,4229.02,2025-02-11,customer32@example.com
+1532,,Smartwatch,Accessories,10,4833.76,2025-06-24,customer230@example.com
+1252,Sambalpur,Mouse,Accessories,5,517.28,2025-05-30,customer252@example.com
+1381,Sambalpur,Router,Electronics,8,1870.04,2025-06-28,customer381@example.com
+1154,Bhubaneswar,Printer,Electronics,8,6287.32,2025-03-25,customer154@example.com
+1313,Cuttack,Laptop,Electronics,8,54298.42,2025-01-20,customer313@example.com
+1347,Rourkela,Monitor,Electronics,3,8507.78,2025-02-09,customer347@example.com
+1438,Rourkela,Webcam,Accessories,5,2199.45,2025-05-08,customer438@example.com
+1311,Puri,Headphones,Accessories,4,1464.06,2025-05-09,customer311@example.com
+1521,Cuttack,Keyboard,Accessories,3,,2025-03-07,customer309@example.com
+1266,Bhubaneswar,Smartwatch,Accessories,1,4923.98,2025-03-27,customer266@example.com
+1409,Berhampur,Keyboard,Accessories,3,862.61,2025-06-29,customer409@example.com
+1319,Berhampur,Mouse,Accessories,2,527.91,2025-05-11,customer319@example.com
+1198,Sambalpur,Mobile Phone,Electronics,6,17332.26,2025-01-30,customer198@example.com
+1484,Rourkela,Headphones,Accessories,5,1630.98,2025-01-10,customer484@example.com
+1282,Berhampur,Mobile Phone,Electronics,2,19055.15,2025-06-17,customer282@example.com
+1443,Rourkela,External HDD,Accessories,7,3406.04,2025-04-04,customer443@example.com
+1197,Sambalpur,Printer,Electronics,9,6907.64,2025-01-10,customer197@example.com
+1166,Puri,External HDD,Accessories,10,3488.94,2025-05-15,customer166@example.com
+1399,Puri,Mouse,Accessories,10,488.29,2025-01-09,customer399@example.com
+1325,Sambalpur,Smartwatch,Accessories,6,4340.89,2025-02-08,customer325@example.com
+1474,Cuttack,Tablet,Electronics,9,14313.4,2025-06-28,customer474@example.com
+1045,Puri,Webcam,Accessories,3,2074.26,2025-05-27,customer45@example.com
+1013,Cuttack,Keyboard,Accessories,6,792.55,2025-02-11,customer13@example.com
+1321,Rourkela,External HDD,Accessories,3,3820.76,2025-03-02,customer321@example.com
+1246,Puri,Tablet,Electronics,6,16129.38,2025-05-16,customer246@example.com
+1262,Cuttack,Mouse,Accessories,8,471.73,2025-03-02,customer262@example.com
+1284,Sambalpur,Monitor,Electronics,8,8844.86,2025-04-13,customer284@example.com
+1285,Berhampur,External HDD,Accessories,7,3216.56,2025-03-22,customer285@example.com
+1229,Rourkela,Router,Electronics,3,2117.01,2025-02-14,customer229@example.com
+1467,Cuttack,Monitor,Electronics,5,9823.21,2025-05-23,customer467@example.com
+1466,Sambalpur,Tablet,Electronics,5,14562.86,2025-06-06,customer466@example.com
+1044,Berhampur,Mouse,Accessories,4,457.09,2025-03-13,customer44@example.com
+1067,Rourkela,Webcam,Accessories,10,2253.31,2025-01-26,customer67@example.com
+1536,Sambalpur,Laptop,Electronics,10,,2025-06-23,customer397@example.com
+1374,Berhampur,Monitor,Electronics,3,9127.19,2025-06-20,customer374@example.com
+1307,Bhubaneswar,Smartwatch,Accessories,5,4487.97,2025-01-12,customer307@example.com
+1227,Cuttack,Mouse,Accessories,5,529.61,2025-04-02,customer227@example.com
+1157,Berhampur,Tablet,Electronics,2,16344.19,2025-03-03,customer157@example.com
+1002,Bhubaneswar,Printer,Electronics,2,5891.32,2025-02-25,customer2@example.com
+1115,Cuttack,Webcam,Accessories,9,2273.73,2025-06-02,customer115@example.com
+1428,Bhubaneswar,Tablet,Electronics,5,14369.01,2025-05-04,customer428@example.com
+1184,Bhubaneswar,Monitor,Electronics,10,9763.04,2025-06-19,customer184@example.com
+1162,Cuttack,Printer,Electronics,9,7145.62,2025-03-26,customer162@example.com
+1352,Berhampur,Webcam,Accessories,6,1999.22,2025-06-23,customer352@example.com
+1312,Berhampur,Router,Electronics,2,2122.48,2025-04-12,customer312@example.com
+1049,Rourkela,Router,Electronics,7,1839.37,2025-03-28,customer49@example.com
+1078,Sambalpur,Headphones,Accessories,9,1572.37,2025-06-30,customer78@example.com
+1137,Bhubaneswar,Mobile Phone,Electronics,1,19012.44,2025-01-08,customer137@example.com
+1401,Sambalpur,Mobile Phone,Electronics,9,18266.12,2025-04-04,customer401@example.com
+1037,Cuttack,Headphones,Accessories,9,1547.93,2025-02-12,customer37@example.com
+1126,Berhampur,Printer,Electronics,7,6959.48,2025-05-18,customer126@example.com
+1151,Cuttack,Printer,Electronics,10,6923.45,2025-03-10,customer151@example.com
+1507,Sambalpur,Mobile Phone,Electronics,8,19436.0,2025-01-15,customer507@example.com
+1043,Rourkela,External HDD,Accessories,4,3591.77,2025-01-18,customer43@example.com
+1397,Sambalpur,Laptop,Electronics,10,51070.57,2025-06-23,customer397@example.com
+1299,Rourkela,Router,Electronics,3,1960.31,2025-06-12,customer299@example.com
+1095,Cuttack,Mobile Phone,Electronics,10,17586.7,2025-02-18,customer95@example.com
+1221,Rourkela,Keyboard,Accessories,7,774.17,2025-06-16,customer221@example.com
+1531,Rourkela,Headphones,Accessories,5,,2025-01-10,customer484@example.com
+1283,Sambalpur,Tablet,Electronics,4,15662.52,2025-04-21,customer283@example.com
+1182,Bhubaneswar,External HDD,Accessories,5,3565.67,2025-01-09,customer182@example.com
+1116,Puri,Webcam,Accessories,9,2249.57,2025-04-20,customer116@example.com
+1496,Rourkela,Mouse,Accessories,1,519.28,2025-06-20,customer496@example.com
+1230,Bhubaneswar,Smartwatch,Accessories,10,4833.76,2025-06-24,customer230@example.com
+1139,Bhubaneswar,Headphones,Accessories,2,1492.07,2025-05-25,customer139@example.com
+1324,Berhampur,Smartwatch,Accessories,10,4454.01,2025-06-14,customer324@example.com
+1525,Puri,,Accessories,3,3368.9,2025-05-08,customer437@example.com
+1167,Bhubaneswar,Keyboard,Accessories,4,876.88,2025-03-17,customer167@example.com
+1503,Puri,Webcam,Accessories,6,2212.4,2025-01-20,customer503@example.com
+1304,Puri,Mobile Phone,Electronics,7,17179.57,2025-05-05,customer304@example.com
+1314,Sambalpur,Smartwatch,Accessories,7,4436.36,2025-06-13,customer314@example.com
+1309,Cuttack,Keyboard,Accessories,3,871.25,2025-03-07,customer309@example.com
+1174,Cuttack,Router,Electronics,3,1821.44,2025-05-25,customer174@example.com
+1372,Berhampur,Laptop,Electronics,10,56451.5,2025-03-03,customer372@example.com
+1465,Cuttack,Mouse,Accessories,8,545.67,2025-05-17,customer465@example.com
+1223,Rourkela,Router,Electronics,8,2087.49,2025-05-19,customer223@example.com
+1050,Bhubaneswar,Monitor,Electronics,9,8444.86,2025-04-25,customer50@example.com
+1027,Berhampur,Tablet,Electronics,1,16082.34,2025-06-24,customer27@example.com
+1177,Puri,Printer,Electronics,8,6435.67,2025-03-18,customer177@example.com
+1256,Rourkela,Router,Electronics,3,1963.32,2025-01-12,customer256@example.com
+1414,Sambalpur,Printer,Electronics,8,7149.47,2025-05-15,customer414@example.com
+1489,Puri,External HDD,Accessories,6,3280.34,2025-03-17,customer489@example.com
+1196,Berhampur,Headphones,Accessories,8,1448.94,2025-03-15,customer196@example.com
+1384,Sambalpur,Laptop,Electronics,5,52971.55,2025-05-12,customer384@example.com
+1276,Sambalpur,Keyboard,Accessories,1,793.29,2025-01-16,customer276@example.com
+1346,Sambalpur,Keyboard,Accessories,4,748.84,2025-03-29,customer346@example.com
+1199,Puri,Tablet,Electronics,1,15974.78,2025-06-18,customer199@example.com
+1376,Rourkela,Tablet,Electronics,9,15021.98,2025-05-22,customer376@example.com
+1424,Cuttack,Headphones,Accessories,10,1401.36,2025-06-04,customer424@example.com
+1488,Cuttack,Mobile Phone,Electronics,8,17390.46,2025-06-15,customer488@example.com
+1083,Puri,Router,Electronics,9,1841.12,2025-04-15,customer83@example.com
+1296,Berhampur,Router,Electronics,10,2022.7,2025-06-18,customer296@example.com
+1039,Berhampur,External HDD,Accessories,5,3632.91,2025-04-13,customer39@example.com
+1415,Cuttack,Printer,Electronics,2,6920.34,2025-02-02,customer415@example.com
+1073,Cuttack,Mobile Phone,Electronics,3,18872.7,2025-03-11,customer73@example.com
+1300,Sambalpur,Mobile Phone,Electronics,4,18886.0,2025-04-07,customer300@example.com
+1106,Rourkela,Tablet,Electronics,3,14919.56,2025-06-18,customer106@example.com
+1436,Puri,Monitor,Electronics,3,9832.83,2025-03-25,customer436@example.com
+1161,Cuttack,Smartwatch,Accessories,9,4382.12,2025-05-16,customer161@example.com
+1034,Bhubaneswar,Laptop,Electronics,6,50730.54,2025-03-20,customer34@example.com
+1400,Sambalpur,Headphones,Accessories,6,1553.72,2025-04-06,customer400@example.com
+1336,Puri,Keyboard,Accessories,6,781.99,2025-06-23,customer336@example.com
+1288,Puri,Mobile Phone,Electronics,6,18880.52,2025-02-03,customer288@example.com
+1278,Puri,Webcam,Accessories,2,2012.34,2025-03-24,customer278@example.com
+1143,Puri,Printer,Electronics,4,6365.65,2025-01-20,customer143@example.com
+1405,Sambalpur,Monitor,Electronics,5,9893.46,2025-06-27,customer405@example.com
+1475,Bhubaneswar,Headphones,Accessories,10,1382.77,2025-03-03,customer475@example.com
+1023,Sambalpur,Monitor,Electronics,3,9895.19,2025-05-11,customer23@example.com
+1138,Bhubaneswar,Monitor,Electronics,10,9610.61,2025-02-09,customer138@example.com
+1394,Sambalpur,Laptop,Electronics,6,57494.96,2025-06-07,customer394@example.com
+1290,Sambalpur,Router,Electronics,6,1848.89,2025-06-20,customer290@example.com
+1354,Sambalpur,Webcam,Accessories,4,2082.96,2025-03-21,customer354@example.com
+1108,Bhubaneswar,Monitor,Electronics,4,9311.03,2025-02-20,customer108@example.com
+1117,Cuttack,Webcam,Accessories,8,2374.77,2025-04-26,customer117@example.com
+1021,Cuttack,Headphones,Accessories,9,1423.99,2025-05-18,customer21@example.com
+1270,Rourkela,Keyboard,Accessories,2,847.76,2025-06-19,customer270@example.com
+1048,Berhampur,Printer,Electronics,1,6457.13,2025-06-22,customer48@example.com
+1410,Rourkela,Headphones,Accessories,9,1588.11,2025-02-27,customer410@example.com
+1169,Cuttack,Keyboard,Accessories,1,727.28,2025-05-22,customer169@example.com
+1330,Berhampur,Tablet,Electronics,10,14653.45,2025-05-22,customer330@example.com
+1530,Bhubaneswar,Tablet,Electronics,1,,2025-06-15,customer385@example.com
+1510,Rourkela,Keyboard,Accessories,4,850.63,2025-05-29,customer510@example.com
+1042,Rourkela,Tablet,Electronics,4,14190.34,2025-01-02,customer42@example.com
+1087,Bhubaneswar,Mobile Phone,Electronics,1,17577.15,2025-05-01,customer87@example.com
+1359,Rourkela,External HDD,Accessories,2,3742.12,2025-03-14,customer359@example.com
+1461,Berhampur,Webcam,Accessories,3,2118.02,2025-04-16,customer461@example.com
+1454,Rourkela,Webcam,Accessories,5,2291.85,2025-05-02,customer454@example.com
+1028,Berhampur,Mobile Phone,Electronics,9,18654.16,2025-03-10,customer28@example.com
+1243,Rourkela,Router,Electronics,5,2058.54,2025-04-23,customer243@example.com
+1445,Sambalpur,Tablet,Electronics,7,14365.81,2025-05-10,customer445@example.com
+1193,Bhubaneswar,Headphones,Accessories,8,1491.15,2025-03-13,customer193@example.com
+1538,Cuttack,Mobile Phone,Electronics,,18208.67,2025-03-14,customer338@example.com
+1430,Sambalpur,Laptop,Electronics,7,51238.88,2025-05-04,customer430@example.com
+1047,Sambalpur,Mobile Phone,Electronics,7,16548.95,2025-04-01,customer47@example.com
+1158,Sambalpur,Printer,Electronics,4,6485.15,2025-06-26,customer158@example.com
+1512,Cuttack,Mobile Phone,Electronics,8,19750.09,2025-01-09,customer512@example.com
+1332,Rourkela,Mouse,Accessories,9,510.5,2025-02-08,customer332@example.com
+1334,Sambalpur,Router,Electronics,4,1869.02,2025-04-23,customer334@example.com
+1041,Puri,Monitor,Electronics,6,8504.46,2025-01-06,customer41@example.com
+1506,Sambalpur,Webcam,Accessories,4,2031.15,2025-05-30,customer506@example.com
+1153,Berhampur,Monitor,Electronics,10,9450.86,2025-06-06,customer153@example.com
+1115,Cuttack,Webcam,Accessories,9,2273.73,2025-06-02,customer115@example.com
+1356,Sambalpur,Keyboard,Accessories,9,844.5,2025-05-16,customer356@example.com
+1124,Rourkela,Printer,Electronics,10,6356.32,2025-06-28,customer124@example.com
+1057,Rourkela,Webcam,Accessories,5,2048.11,2025-02-25,customer57@example.com
+1495,Berhampur,Smartwatch,Accessories,1,4700.59,2025-03-08,customer495@example.com
+1207,Bhubaneswar,External HDD,Accessories,8,3341.4,2025-05-01,customer207@example.com
+1457,Bhubaneswar,Keyboard,Accessories,10,874.73,2025-05-28,customer457@example.com
+1533,Sambalpur,,Electronics,6,18021.46,2025-01-04,customer147@example.com
+1203,Berhampur,Webcam,Accessories,10,2033.43,2025-03-03,customer203@example.com
+1492,Sambalpur,Printer,Electronics,3,6720.03,2025-02-05,customer492@example.com
+1136,Berhampur,Tablet,Electronics,6,13656.26,2025-02-27,customer136@example.com
+1181,Sambalpur,Tablet,Electronics,1,13725.19,2025-04-15,customer181@example.com
+1417,Puri,Mouse,Accessories,9,462.83,2025-06-13,customer417@example.com
+1129,Sambalpur,Mouse,Accessories,7,516.89,2025-02-12,customer129@example.com
+1269,Puri,Smartwatch,Accessories,3,4052.55,2025-02-03,customer269@example.com
+1317,Puri,Mobile Phone,Electronics,10,17075.94,2025-04-13,customer317@example.com
+1098,Cuttack,Mobile Phone,Electronics,6,19615.95,2025-06-09,customer98@example.com
+1123,Bhubaneswar,Mouse,Accessories,7,504.26,2025-01-16,customer123@example.com
+1076,Rourkela,Laptop,Electronics,7,50515.28,2025-03-12,customer76@example.com
+1479,Berhampur,Headphones,Accessories,8,1472.07,2025-05-03,customer479@example.com
+1049,Rourkela,Router,Electronics,7,1839.37,2025-03-28,customer49@example.com
+1054,Sambalpur,Headphones,Accessories,8,1471.92,2025-02-24,customer54@example.com
+1091,Rourkela,Tablet,Electronics,9,14699.04,2025-03-26,customer91@example.com
+1412,Puri,Mouse,Accessories,6,505.4,2025-04-30,customer412@example.com
+1220,Sambalpur,Headphones,Accessories,3,1472.99,2025-01-20,customer220@example.com
+1345,Cuttack,Router,Electronics,6,1969.36,2025-01-05,customer345@example.com
+1357,Cuttack,Headphones,Accessories,10,1595.07,2025-02-05,customer357@example.com
+1416,Puri,Router,Electronics,8,1829.67,2025-06-24,customer416@example.com
+1257,Bhubaneswar,Keyboard,Accessories,2,879.35,2025-01-25,customer257@example.com
+1442,Cuttack,Laptop,Electronics,7,58818.9,2025-02-04,customer442@example.com
+1146,Cuttack,Laptop,Electronics,7,53319.24,2025-06-19,customer146@example.com
+1535,Bhubaneswar,Router,Electronics,5,,2025-06-16,customer426@example.com
+1140,Puri,Webcam,Accessories,6,2287.76,2025-02-12,customer140@example.com
+1369,Rourkela,Mobile Phone,Electronics,4,18994.22,2025-03-19,customer369@example.com
+1271,Cuttack,Headphones,Accessories,4,1354.46,2025-05-31,customer271@example.com
+1448,Bhubaneswar,Mouse,Accessories,6,505.78,2025-02-06,customer448@example.com
+1006,Cuttack,Printer,Electronics,3,6292.33,2025-02-25,customer6@example.com
+1210,Rourkela,Printer,Electronics,9,6291.84,2025-03-10,customer210@example.com
+1282,Berhampur,Mobile Phone,Electronics,2,19055.15,2025-06-17,customer282@example.com
+1272,Berhampur,Laptop,Electronics,1,51416.71,2025-02-02,customer272@example.com
+1470,Rourkela,Mouse,Accessories,5,506.05,2025-03-15,customer470@example.com
+1008,Puri,Smartwatch,Accessories,1,4288.07,2025-04-28,customer8@example.com
+1249,Berhampur,Headphones,Accessories,4,1576.25,2025-06-23,customer249@example.com
+1514,Sambalpur,Router,Electronics,6,2185.51,2025-04-08,customer514@example.com
+1247,Cuttack,Keyboard,Accessories,5,852.88,2025-05-04,customer247@example.com
+1411,Rourkela,Monitor,Electronics,4,9525.72,2025-05-07,customer411@example.com
+1341,Puri,Router,Electronics,7,2079.39,2025-02-03,customer341@example.com
+1326,Puri,Mobile Phone,Electronics,5,17888.12,2025-03-12,customer326@example.com
+1316,Sambalpur,Smartwatch,Accessories,6,4464.09,2025-01-23,customer316@example.com
+1068,Cuttack,Tablet,Electronics,5,14139.46,2025-02-03,customer68@example.com
+1191,Puri,Keyboard,Accessories,4,724.14,2025-06-22,customer191@example.com
+1233,Rourkela,Webcam,Accessories,9,2376.53,2025-02-10,customer233@example.com
+1258,Berhampur,Tablet,Electronics,8,13906.99,2025-04-05,customer258@example.com
+1111,Bhubaneswar,External HDD,Accessories,7,3418.78,2025-03-04,customer111@example.com
+1004,Sambalpur,Router,Electronics,7,2080.53,2025-02-26,customer4@example.com
+1077,Cuttack,Laptop,Electronics,3,53169.12,2025-06-13,customer77@example.com
+1362,Cuttack,Laptop,Electronics,7,54063.87,2025-05-09,customer362@example.com
+1034,Bhubaneswar,Laptop,Electronics,6,50730.54,2025-03-20,customer34@example.com
+1118,Sambalpur,Monitor,Electronics,5,9611.75,2025-05-14,customer118@example.com
+1322,Bhubaneswar,Headphones,Accessories,3,1426.79,2025-06-04,customer322@example.com
+1431,Berhampur,Monitor,Electronics,3,8712.35,2025-03-22,customer431@example.com
+1070,Berhampur,Webcam,Accessories,5,2346.85,2025-06-06,customer70@example.com
+1211,Berhampur,Keyboard,Accessories,10,836.17,2025-05-29,customer211@example.com
+1003,Berhampur,Tablet,Electronics,9,15306.06,2025-02-20,customer3@example.com
+1391,Rourkela,Headphones,Accessories,6,1513.64,2025-01-27,customer391@example.com
+1024,Berhampur,Mobile Phone,Electronics,2,18920.82,2025-02-09,customer24@example.com
+1342,Sambalpur,External HDD,Accessories,5,3806.6,2025-05-24,customer342@example.com
+1418,Puri,Headphones,Accessories,3,1580.33,2025-04-21,customer418@example.com
+1038,Puri,Tablet,Electronics,7,16117.3,2025-02-24,customer38@example.com
+1433,Bhubaneswar,Mouse,Accessories,2,501.5,2025-03-23,customer433@example.com
+1429,Berhampur,Router,Electronics,8,1962.44,2025-01-19,customer429@example.com
+1017,Bhubaneswar,External HDD,Accessories,6,3539.86,2025-01-15,customer17@example.com
+1268,Bhubaneswar,Monitor,Electronics,4,9155.49,2025-03-26,customer268@example.com
+1030,Bhubaneswar,Laptop,Electronics,5,59991.98,2025-05-09,customer30@example.com
+1498,Cuttack,External HDD,Accessories,2,3688.89,2025-06-13,customer498@example.com
+1277,Berhampur,Printer,Electronics,2,6404.16,2025-05-06,customer277@example.com
+1455,Puri,Mouse,Accessories,2,483.12,2025-04-17,customer455@example.com
+1469,Sambalpur,Monitor,Electronics,8,9342.43,2025-03-23,customer469@example.com
+1539,,Monitor,Electronics,2,8156.83,2025-02-18,customer460@example.com
+1501,Berhampur,External HDD,Accessories,8,3534.46,2025-05-18,customer501@example.com
+1279,Berhampur,Headphones,Accessories,5,1369.7,2025-06-09,customer279@example.com
+1250,Rourkela,Router,Electronics,9,2191.98,2025-04-04,customer250@example.com
+1071,Berhampur,Tablet,Electronics,9,13523.47,2025-03-18,customer71@example.com
+1500,Sambalpur,Headphones,Accessories,10,1486.49,2025-04-06,customer500@example.com
+1180,Bhubaneswar,Keyboard,Accessories,3,825.67,2025-03-03,customer180@example.com
+1407,Cuttack,External HDD,Accessories,2,3461.58,2025-06-24,customer407@example.com
+1375,Puri,Mobile Phone,Electronics,6,18084.54,2025-01-18,customer375@example.com
+1086,Berhampur,External HDD,Accessories,5,3717.52,2025-02-10,customer86@example.com
+1513,Berhampur,Printer,Electronics,3,6083.98,2025-06-14,customer513@example.com
+1511,Rourkela,Laptop,Electronics,2,54160.67,2025-05-19,customer511@example.com
+1378,Rourkela,Mouse,Accessories,1,475.37,2025-04-02,customer378@example.com
+1328,Rourkela,Webcam,Accessories,6,1996.55,2025-03-15,customer328@example.com
+1370,Rourkela,Laptop,Electronics,10,52122.83,2025-04-28,customer370@example.com
+1494,Cuttack,Monitor,Electronics,5,8904.12,2025-03-26,customer494@example.com
+1250,Rourkela,Router,Electronics,9,2191.98,2025-04-04,customer250@example.com
+1420,Puri,Headphones,Accessories,4,1398.59,2025-03-30,customer420@example.com
+1390,Puri,Mobile Phone,Electronics,2,18817.49,2025-04-21,customer390@example.com
+1131,Berhampur,Smartwatch,Accessories,1,4557.95,2025-01-22,customer131@example.com
+1172,Rourkela,Headphones,Accessories,5,1639.65,2025-05-03,customer172@example.com
+1350,Bhubaneswar,Smartwatch,Accessories,7,4167.94,2025-02-09,customer350@example.com
+1483,Sambalpur,Headphones,Accessories,1,1630.18,2025-04-12,customer483@example.com
+1335,Cuttack,Tablet,Electronics,3,15068.24,2025-04-04,customer335@example.com
+1281,Sambalpur,Tablet,Electronics,9,14384.69,2025-06-04,customer281@example.com
+1255,Cuttack,Monitor,Electronics,8,9265.77,2025-06-29,customer255@example.com
+1251,Sambalpur,Printer,Electronics,9,5868.09,2025-02-01,customer251@example.com
+1388,Bhubaneswar,External HDD,Accessories,7,3457.82,2025-03-28,customer388@example.com
+1235,Bhubaneswar,Printer,Electronics,8,6747.41,2025-03-19,customer235@example.com
+1337,Cuttack,Laptop,Electronics,6,58181.5,2025-01-17,customer337@example.com
+1200,Cuttack,Webcam,Accessories,4,2161.83,2025-05-13,customer200@example.com
+1156,Rourkela,Smartwatch,Accessories,5,4681.07,2025-05-23,customer156@example.com
+1302,Rourkela,Mouse,Accessories,10,527.68,2025-06-02,customer302@example.com
+1427,Berhampur,Smartwatch,Accessories,1,4424.93,2025-05-08,customer427@example.com
+1045,Puri,Webcam,Accessories,3,2074.26,2025-05-27,customer45@example.com
+1016,Berhampur,Monitor,Electronics,7,8394.12,2025-03-11,customer16@example.com
+1149,Berhampur,External HDD,Accessories,3,3257.09,2025-05-14,customer149@example.com
+1226,Rourkela,Mobile Phone,Electronics,5,17797.24,2025-01-08,customer226@example.com
+1046,Bhubaneswar,Webcam,Accessories,8,2086.92,2025-04-15,customer46@example.com
+1423,Puri,Mobile Phone,Electronics,3,18009.26,2025-06-01,customer423@example.com
+1320,Cuttack,Mobile Phone,Electronics,4,18110.18,2025-03-31,customer320@example.com
+1379,Berhampur,Mouse,Accessories,2,474.11,2025-05-29,customer379@example.com
+1208,Puri,Webcam,Accessories,7,2222.56,2025-02-18,customer208@example.com
+1327,Sambalpur,Laptop,Electronics,2,53371.36,2025-03-21,customer327@example.com
+1480,Cuttack,Monitor,Electronics,5,9460.64,2025-03-24,customer480@example.com
+1100,Cuttack,Router,Electronics,7,1963.36,2025-06-28,customer100@example.com
+1239,Berhampur,Smartwatch,Accessories,1,4828.56,2025-06-05,customer239@example.com
+1509,Sambalpur,Tablet,Electronics,5,14887.13,2025-01-06,customer509@example.com
+1429,Berhampur,Router,Electronics,8,1962.44,2025-01-19,customer429@example.com
+1368,Sambalpur,Headphones,Accessories,10,1514.64,2025-05-16,customer368@example.com
+1267,Puri,Headphones,Accessories,4,1586.09,2025-01-18,customer267@example.com
+1315,Bhubaneswar,Keyboard,Accessories,1,738.43,2025-03-25,customer315@example.com
+1367,Bhubaneswar,Laptop,Electronics,1,59464.43,2025-03-07,customer367@example.com
+1477,Berhampur,Monitor,Electronics,7,8194.48,2025-03-26,customer477@example.com
+1389,Cuttack,Webcam,Accessories,6,2284.51,2025-05-13,customer389@example.com
+1289,Cuttack,Laptop,Electronics,9,55951.12,2025-05-24,customer289@example.com
+1329,Puri,Router,Electronics,2,2145.7,2025-06-07,customer329@example.com
+1245,Bhubaneswar,Mouse,Accessories,3,524.75,2025-02-21,customer245@example.com
+1406,Bhubaneswar,Monitor,Electronics,2,8320.75,2025-04-26,customer406@example.com
+1209,Cuttack,Tablet,Electronics,3,15738.88,2025-01-18,customer209@example.com
+1248,Rourkela,External HDD,Accessories,2,3759.28,2025-04-30,customer248@example.com
+1529,,Monitor,Electronics,2,9595.32,2025-03-13,customer152@example.com
+1120,Puri,Keyboard,Accessories,6,757.52,2025-03-23,customer120@example.com
+1194,Sambalpur,Smartwatch,Accessories,8,4442.3,2025-01-24,customer194@example.com
+1216,Berhampur,External HDD,Accessories,7,3481.08,2025-04-09,customer216@example.com
+1015,Berhampur,Router,Electronics,3,1828.56,2025-05-17,customer15@example.com
+1310,Bhubaneswar,Mouse,Accessories,8,462.0,2025-04-21,customer310@example.com
+1340,Cuttack,Mobile Phone,Electronics,3,18297.86,2025-03-31,customer340@example.com
+1213,Sambalpur,Mouse,Accessories,9,483.24,2025-04-07,customer213@example.com
+1490,Berhampur,Router,Electronics,3,2102.91,2025-06-06,customer490@example.com
+1222,Cuttack,Mouse,Accessories,9,535.23,2025-04-08,customer222@example.com
+1192,Rourkela,Smartwatch,Accessories,5,4905.71,2025-05-28,customer192@example.com
+1074,Berhampur,Smartwatch,Accessories,6,4239.57,2025-02-22,customer74@example.com
+1040,Rourkela,Router,Electronics,9,1949.37,2025-04-26,customer40@example.com
+1386,Cuttack,Keyboard,Accessories,1,777.12,2025-06-17,customer386@example.com
+1274,Puri,Mouse,Accessories,2,501.32,2025-04-26,customer274@example.com
+1052,Rourkela,Webcam,Accessories,9,2335.53,2025-01-26,customer52@example.com
+1195,Rourkela,Mouse,Accessories,6,490.83,2025-06-21,customer195@example.com
+1523,,Smartwatch,Accessories,5,4487.97,2025-01-12,customer307@example.com
+1094,Puri,External HDD,Accessories,7,3700.5,2025-06-05,customer94@example.com
